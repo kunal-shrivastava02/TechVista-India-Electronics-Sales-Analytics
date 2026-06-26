@@ -1,0 +1,54 @@
+product_id,product_name,brand,category,cost_price,selling_price,discount_percentage,stock_quantity,warranty_years,rating
+PRD0001,iPhone 13,Apple,Smartphones,35262,47651,7.6,222,1,3.6
+PRD0002,iPhone 14,Apple,Smartphones,47003,64388,0.8,49,3,3.8
+PRD0003,iPhone 15,Apple,Smartphones,58106,80703,3.5,55,1,3.6
+PRD0004,MacBook Air M2,Apple,Laptops,62607,86954,0.5,83,1,4.4
+PRD0005,MacBook Pro M3,Apple,Laptops,95530,134550,7.6,223,1,5.0
+PRD0006,iPad 10th Gen,Apple,Tablets,25688,35189,4.5,88,2,4.1
+PRD0007,iPad Air M1,Apple,Tablets,43382,59428,0.9,177,3,4.7
+PRD0008,Apple Watch SE,Apple,Smartwatches,18532,25739,0.8,116,2,3.6
+PRD0009,Apple Watch S9,Apple,Smartwatches,25214,35513,4.5,125,2,4.5
+PRD0010,AirPods 3,Apple,Accessories,9519,14874,6.2,258,3,4.9
+PRD0011,AirPods Pro 2,Apple,Accessories,14718,23739,2.4,112,1,3.6
+PRD0012,Galaxy M34,Samsung,Smartphones,14443,17613,4.2,195,2,3.9
+PRD0013,Galaxy A54,Samsung,Smartphones,20238,25298,0.9,234,1,4.6
+PRD0014,Galaxy S23 FE,Samsung,Smartphones,32170,41244,7.5,235,1,4.9
+PRD0015,Galaxy S24,Samsung,Smartphones,53682,70634,6.1,180,2,4.5
+PRD0016,Galaxy Book3,Samsung,Laptops,53798,69868,4.0,253,1,4.8
+PRD0017,Galaxy Tab A9,Samsung,Tablets,14901,19104,3.8,53,1,4.6
+PRD0018,Galaxy Tab S9,Samsung,Tablets,45401,60535,5.2,248,2,4.6
+PRD0019,Galaxy Watch 6,Samsung,Smartwatches,20240,26632,5.3,31,2,4.0
+PRD0020,Galaxy Buds 2 Pro,Samsung,Accessories,8330,12250,0.9,50,1,4.7
+PRD0021,Redmi 13C,Xiaomi,Smartphones,7874,9263,5.9,223,2,4.9
+PRD0022,Redmi Note 13 Pro,Xiaomi,Smartphones,17246,21032,0.6,249,2,4.3
+PRD0023,Poco X6 Pro,Xiaomi,Smartphones,20447,25559,6.6,162,2,5.0
+PRD0024,Xiaomi 14,Xiaomi,Smartphones,45330,58115,7.7,97,1,3.8
+PRD0025,Mi Notebook Pro,Xiaomi,Laptops,37050,46899,5.3,26,2,4.7
+PRD0026,Pad 6,Xiaomi,Tablets,18521,23745,2.1,22,1,4.1
+PRD0027,Smart Band 8,Xiaomi,Smartwatches,2582,3688,4.9,183,1,4.5
+PRD0028,Buds 4 Pro,Xiaomi,Accessories,4326,6554,7.6,47,2,4.8
+PRD0029,OnePlus Nord CE 3,OnePlus,Smartphones,18685,22786,6.4,220,2,4.1
+PRD0030,OnePlus Nord 3,OnePlus,Smartphones,24338,30423,3.9,225,1,3.8
+PRD0031,OnePlus 12,OnePlus,Smartphones,47516,61709,3.5,76,2,4.4
+PRD0032,Watch 2,OnePlus,Smartwatches,9774,13208,0.0,97,3,3.7
+PRD0033,Bullets Z2,OnePlus,Accessories,1010,1485,4.9,56,1,4.4
+PRD0034,Vostro 15,Dell,Laptops,34488,44215,5.1,197,3,4.0
+PRD0035,Inspiron 15,Dell,Laptops,39274,51005,0.9,269,2,4.2
+PRD0036,G15 Gaming,Dell,Laptops,58940,77553,0.7,72,2,4.6
+PRD0037,XPS 15,Dell,Laptops,87202,117840,6.6,102,3,3.5
+PRD0038,Dell 27 Monitor,Dell,Accessories,15025,21162,2.9,298,1,4.6
+PRD0039,HP Pavilion 15,HP,Laptops,37003,47440,7.8,66,2,4.3
+PRD0040,HP Victus 16,HP,Laptops,55778,72439,1.3,134,3,4.3
+PRD0041,HP Envy 13,HP,Laptops,60129,79117,2.6,134,3,4.7
+PRD0042,HP Spectre x360,HP,Laptops,82633,113196,6.4,225,1,3.8
+PRD0043,HP 27f Monitor,HP,Accessories,13692,19017,2.8,34,1,4.7
+PRD0044,IdeaPad Slim 5,Lenovo,Laptops,36556,46867,2.1,196,2,4.7
+PRD0045,ThinkPad E14,Lenovo,Laptops,49220,63922,7.9,206,1,3.8
+PRD0046,Legion 5 Pro,Lenovo,Laptops,70286,93715,3.8,192,1,4.2
+PRD0047,Tab P12,Lenovo,Tablets,26598,34998,6.7,265,2,4.7
+PRD0048,ThinkPad Dock,Lenovo,Accessories,4960,7085,6.7,81,2,4.7
+PRD0049,VivoBook 15,ASUS,Laptops,34812,44631,3.8,111,2,4.7
+PRD0050,ZenBook 14,ASUS,Laptops,48296,62722,0.7,222,2,4.1
+PRD0051,TUF Gaming F15,ASUS,Laptops,59094,77755,0.7,101,1,5.0
+PRD0052,ROG Strix G15,ASUS,Laptops,74333,100450,1.2,258,1,4.4
+PRD0053,ROG Gaming Headset,ASUS,Accessories,5098,7609,7.8,199,1,4.3
